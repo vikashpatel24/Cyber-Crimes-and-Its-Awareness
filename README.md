@@ -5,6 +5,8 @@
   - [Cyber Crimes](#cyber-crimes)
     - [Classification of Cyber Crime](#classification-of-cyber-crime)
     - [Prevention of Cyber Crime](#prevention-of-cyber-crime)
+    - [Cyber Awarness and Its Types](https://github.com/go4krishanu/Cyber-Crimes-and-Its-Awareness-Hacktoberfest-2022/blob/main/cyberawarnessandtypes.md)
+    - [Cyber Attacks](https://github.com/go4krishanu/Cyber-Crimes-and-Its-Awareness-Hacktoberfest-2022/blob/main/Types_Of_Cyber_Attack.md)
 
 
 
