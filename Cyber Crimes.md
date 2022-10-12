@@ -42,5 +42,7 @@ Below are some points by means of which we can prevent cyber crime: 
      
 6.  **Never open attachments in spam emails –**  
     A computer get infected by malware attacks and other forms of cybercrime is via email attachments in spam emails. Never open an attachment from a sender you do not know.
+    
 7.  **Software should be updated –** Operating system should be updated regularly when it comes to internet security. This can become a potential threat when cybercriminals exploit flaws in the system.
-8. **Keep up to date on major security breaches –** If you do business with a merchant or have an account on a website that’s been impacted by a security breach, find out what information the hackers accessed and change your password immediately.
+8.  
+9. **Keep up to date on major security breaches –** If you do business with a merchant or have an account on a website that’s been impacted by a security breach, find out what information the hackers accessed and change your password immediately.
